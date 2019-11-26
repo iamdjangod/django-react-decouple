@@ -1,8 +1,9 @@
 # django-react-decouple
 
 # Development
-Install Python dependencies: pip install -r requirements/development.txt
-Install Javascript dependencies: npm i
+Install Python dependencies: pip install -r requirements/development.txt\
+
+Install Javascript dependencies: npm i\
 Make the bundle: npm run dev
 Migrate: python manage.py migrate
 Populate the database: python manage.py loaddata entries
