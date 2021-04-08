@@ -1,6 +1,6 @@
 certifi==2019.9.11
 coverage==4.5.3
-Django==2.2
+Django==2.2.20
 django-cors-headers==2.5.2
 djangorestframework==3.9.2
 djangorestframework-simplejwt==4.3.0
