@@ -7,7 +7,7 @@ djangorestframework-simplejwt==4.3.0
 et-xmlfile==1.0.1
 jdcal==1.4.1
 openpyxl==3.0.2
-pipenv==2018.11.26
+pipenv==2022.1.8
 PyJWT==1.7.1
 pytz==2019.1
 sqlparse==0.3.0
